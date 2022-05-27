@@ -15,8 +15,8 @@ __Position type__:
 QR = Quant Research  
 QT = Quant Trading  
 QD = Quant Develop  
-QS = Quant Strategy
-QA = Quant Analytics
+QS = Quant Strategy  
+QA = Quant Analytics  
 DS = Data Science
 
 | Company | Company Type | Location | Position | Status | Deadline | Apply | Progress | 
