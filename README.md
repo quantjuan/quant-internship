@@ -36,20 +36,19 @@ DS = Data Analytics
 | J.P. Morgan | IB | NYC | QR | ✅ | *Oct 01, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231284/?utm_medium=jobshare) |  |
 | J.P. Morgan | IB | Shanghai | QR | ✅ | *Oct 31, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231284/?utm_medium=jobshare) |  |
 | J.P. Morgan | IB | Hong Kong | QR | ✅ | *Oct 31, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210311857/?utm_medium=jobshare) |  |
-| Lazard | IB | | | |  | [laz_apply](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/user-4/xf-41fc224c7843/wid-2/candidate/jobboard/vacancy/2/adv/)|  |
 | Morgan Stanley | IB | NYC | QA | ✅ | *Oct 31, 2022* | [ms_qa_apply](https://morganstanley.tal.net/vx/candidate/apply/12933)|  |
 | Nomura | IB | NYC | QT | ✅ | *Nov 13, 2022* | [Nom_qt_apply](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7bb1708a1aa4/candidate/so/pm/1/pl/1/opp/810-2023-Global-Markets-Summer-Internship-Wholesale-Digital-Office-Quants-Strats-Systematic-Trading-Research-New-York/en-GB)|  |
 | UBS | IB | NYC | QT | ✅ | *Sep 30, 2022* | [ubs_qt_apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=254960#jobDetails=254960_5131)|  |
 | HSBC | IB | NYC | QT | ✅ | *Sep 30, 2022* | [hs_qt_apply](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/markets-internship?tab=What%20you%E2%80%99ll%20do#select-option-usa)|  |
 | HSBC | IB | NYC | QT | ✅ | *Nov 14, 2022* | [hs_qt_apply](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/markets-internship?tab=What%20you%E2%80%99ll%20learn#select-option-hong%20kong)|  |
-| BlackRock | AM |  | QR | ✅ | *Sep 30, 2022*| [br_qa_apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-3d1d0a4adcb4/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)|  |
-| AlphaSimplex Group | HF | Boston  | QT | ✔️ | | https://www.alphasimplex.com/careers/internship-opportunities/ |  |
-| Acadian Asset Management | HF | Boston  | QT |  | | https://www.acadian-asset.com/careers/open-positions |  |
-| AQR Capital Management | HF | Greenwich, CT  | QT | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
-| AQR Capital Management | HF | Greenwich, CT  | QD | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
-| AQR Capital Management | HF | Greenwich, CT  | QR | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
-| Arrowstreet Capital | HF | Boston  | QR | ✅ | | https://www.arrowstreetcapital.com/careers/students-and-recent-graduates/ |  |
-| Bridgewater Associates | HF | Westport, CT  | QR | ✅ | | https://boards.greenhouse.io/bridgewater89/jobs/4076389002 |  |
+| BlackRock | AM | San Francisco | QR | ✅ | *Sep 30, 2022*| [br_qa_apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-3d1d0a4adcb4/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)|  |
+| AlphaSimplex Group | HF | Boston | QR | ✅ | | [asg_qr_apply](https://www.alphasimplex.com/wp-content/uploads/2022/07/Research-Intern-2022.pdf) |  |
+| AQR Capital Management | HF | Greenwich, CT  | QT | ✅ | | [aqr_qt_apply](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-trading-and-portfolio-finance-summer-analyst/4350064?gh_jid=4350064#/) |  |
+| AQR Capital Management | HF | Greenwich, CT  | QA | ✅ |  | [aqr_qa_apply](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-portfolio-implementation-summer-analyst/4350057?gh_jid=4350057#/) |  |
+| AQR Capital Management | HF | Greenwich, CT  | QR | ✅ | | [aqr_qr_apply](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-research-summer-analyst/4350040?gh_jid=4350040#/) |  |
+| Arrowstreet Capital | HF | Boston  | QR | ✅ | | [arc_qr_apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) |  |
+| Arrowstreet Capital | HF | Boston  | QD | ✅ | | [arc_qd_apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2023_R704) |  |
+| Bridgewater Associates | HF | Westport, CT  | QR | ✅ | | [bridge_qr_apply](https://boards.greenhouse.io/bridgewater89/jobs/6204813002) |  |
 | Citadel | HF | NYC  | QR | ✅ | | https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/ |  |
 | Citadel | HF | NYC | QT | ✅ | | https://www.citadel.com/careers/details/trader-intern-us/ |  |
 | Cubist (Point 72) | HF | | |  | | https://careers.point72.com/?filters=_experience=Interns%20and%20Entry%20Level_area=All%20Investment%20Services |  |
