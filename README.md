@@ -24,24 +24,25 @@ DS = Data Analytics
 | Bank of America | IB | NYC | QS | ✅ | *Nov 02, 2022* | [boa_qs_apply](https://campus.bankofamerica.com/careers/global_markets_quantitative_strategies_group_summer_associate_program__2023.html) | |
 | Bank of America | IB | NYC | QS | ✅ | *Apr 01, 2023* | [boa_qt_apply](https://campus.bankofamerica.com/careers/global_markets_sales__trading_summer_associate_program__2023.html) | |
 | Bank of America | IB | NYC | QR | ✅ | *Oct 16, 2023* | [boa_qr_apply](https://campus.bankofamerica.com/careers/global_quantitative_research_summer_associate_program__2023.html) | |
-| Barclays Capital | IB | NYC | QT | ✅ |  | https://search.jobs.barclays/job/new-york/sales-and-trading-analyst-expert-summer-intern-program-2023/13015/27079294832 |  |
-| Citigroup | IB | NYC | QA | ✅ |  | https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048 |  |
-| Deutsche Bank | IB | | | |  | https://careers.db.com/students-graduates/search-programmes/index?language_id=1#/graduate/?program=11 |  |
-| Goldman Sachs | IB | NYC | QT | ✅ |  | https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3251021/xf-caeaaeb33c61/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB |  |
-| J.P. Morgan | IB | NYC | QT | ✅ | Oct 1  | https://careers.jpmorgan.com/global/en/students/programs/markets-summer-analyst |  |
-| J.P. Morgan | IB | NYC | QR | ✔️ |  | https://careers.jpmorgan.com/global/en/students/programs/qr-summer-associate |  |
-| J.P. Morgan | IB | NYC | DA | ✔️ |  | https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities |  |
-| Lazard | IB | | | |  | https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/user-4/xf-41fc224c7843/wid-2/candidate/jobboard/vacancy/2/adv/|  |
-| Morgan Stanley | IB | NYC | QR | ✅ | Aug 19 | https://www.morganstanley.com/careers/students-graduates/opportunities/12854|  |
-| Morgan Stanley | IB | NYC | QT | ✅ | Aug 19 | https://www.morganstanley.com/careers/students-graduates/opportunities/12830|  |
-| Nomura | IB | | |  | | https://nomuracampus.tal.net/candidate/jobboard/vacancy/1/adv/?|  |
-| UBS | IB | NYC | QT | ✅ | Sep 30 | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=254956#jobDetails=254956_5131|  |
-| UBS | IB | NYC | QT | ✅ | Sep 30 | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=254960#jobDetails=254960_5131|  |
-| HSBC | IB | NYC | QT | ✅ | Sep 30 | https://www.hsbc.com/careers/students-and-graduates/student-opportunities/markets-and-securities-services|  |
-| BlackRock | AM |  | QR | ✔️ | | https://careers.blackrock.com/early-careers/#summer-analyst-program-us|  |
-| BlackRock | AM |  | QT | ✔️ | | https://careers.blackrock.com/early-careers/#summer-analyst-program-us|  |
-| PIMCO | AM |  | QA | ✔️ | | https://www.pimco.com/en-us/our-firm/careers/students/internships|  |
-| TD Securities | AM |  | QT | ✔️ | | https://jobs.td.com/en/campus-recruitment/tds/programs/#toggle-id-3 |  |
+| Barclays Capital | IB | NYC | QT | ✅ |  | [barcap_qt_apply](https://search.jobs.barclays/job/new-york/sales-and-trading-quantitative-trading-associate-expert-summer-intern-programme-2023/13015/34958439008) |  |
+| Barclays Capital | IB | NYC | QT(ET) | ✅ |  | [barcap_qt(et)_apply](https://search.jobs.barclays/job/new-york/electronic-trading-associate-expert-summer-intern-programme-2023/13015/34958416768) |  |
+| Barclays Capital | IB | NYC | QA | ✅ |  | [barcap_qa_apply](https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-expert-summer-intern-programme-2023/13015/34958421808) |  |
+| Citigroup | IB | NYC | QA | ✅ |  | [citi_qa_apply](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048) |  |
+| Deutsche Bank | IB | NYC | QT | ✅ |  | [deut_qt_apply](https://db.recsolu.com/external/requisitions/xcAU6Mc814nPuZPKkz40JQ) |  |
+| Goldman Sachs | IB | NYC | QA | ✅ |  | [GS_qa_apply](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) |  |
+| J.P. Morgan | IB | NYC | QT | ✅ | *Oct 01, 2022*  | [jpm_qt_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210230839/?utm_medium=jobshare) |  |
+| J.P. Morgan | IB | NYC | QT(ET) | ✅ | *Oct 01, 2022* | [jpm_qt(et)_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231155/?utm_medium=jobshare) |  |
+| J.P. Morgan | IB | Hong Kong | QT | ✅ | *Oct 31, 2022* | [jpm_qt_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210311837/?utm_medium=jobshare) |  |
+| J.P. Morgan | IB | NYC | QR | ✅ | *Oct 01, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231284/?utm_medium=jobshare) |  |
+| J.P. Morgan | IB | Shanghai | QR | ✅ | *Oct 31, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231284/?utm_medium=jobshare) |  |
+| J.P. Morgan | IB | Hong Kong | QR | ✅ | *Oct 31, 2022* | [jpm_qr_apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210311857/?utm_medium=jobshare) |  |
+| Lazard | IB | | | |  | [laz_apply](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/user-4/xf-41fc224c7843/wid-2/candidate/jobboard/vacancy/2/adv/)|  |
+| Morgan Stanley | IB | NYC | QA | ✅ | *Oct 31, 2022* | [ms_qa_apply](https://morganstanley.tal.net/vx/candidate/apply/12933)|  |
+| Nomura | IB | NYC | QT | ✅ | *Nov 13, 2022* | [Nom_qt_apply](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7bb1708a1aa4/candidate/so/pm/1/pl/1/opp/810-2023-Global-Markets-Summer-Internship-Wholesale-Digital-Office-Quants-Strats-Systematic-Trading-Research-New-York/en-GB)|  |
+| UBS | IB | NYC | QT | ✅ | *Sep 30, 2022* | [ubs_qt_apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=254960#jobDetails=254960_5131)|  |
+| HSBC | IB | NYC | QT | ✅ | *Sep 30, 2022* | [hs_qt_apply](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/markets-internship?tab=What%20you%E2%80%99ll%20do#select-option-usa)|  |
+| HSBC | IB | NYC | QT | ✅ | *Nov 14, 2022* | [hs_qt_apply](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/markets-internship?tab=What%20you%E2%80%99ll%20learn#select-option-hong%20kong)|  |
+| BlackRock | AM |  | QR | ✅ | *Sep 30, 2022*| [br_qa_apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-3d1d0a4adcb4/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)|  |
 | AlphaSimplex Group | HF | Boston  | QT | ✔️ | | https://www.alphasimplex.com/careers/internship-opportunities/ |  |
 | Acadian Asset Management | HF | Boston  | QT |  | | https://www.acadian-asset.com/careers/open-positions |  |
 | AQR Capital Management | HF | Greenwich, CT  | QT | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
