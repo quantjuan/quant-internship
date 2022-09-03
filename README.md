@@ -21,7 +21,7 @@ DS = Data Analytics
 
 | Company | Company Type | Location | Position | Status | Deadline | Apply | Progress | 
 | :-----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
-| Bank of America | IB | NYC | QR | ✔️ |  | https://campus.bankofamerica.com/careers/Global-Quantitative-Investment-Strategy-Research-Summer-Associate-Program-US.html |  |
+| Bank of America | IB | NYC | QR | ✔️ |  | [job](https://campus.bankofamerica.com/careers/Global-Quantitative-Investment-Strategy-Research-Summer-Associate-Program-US.html) |  |
 | Bank of America | IB | NYC | QS | ✔️ | | https://campus.bankofamerica.com/careers/Global-Markets-Quantitative-Strategies-Summer-Associate-Program-US.html | |
 | Barclays Capital | IB | NYC | QT | ✅ |  | https://search.jobs.barclays/job/new-york/sales-and-trading-analyst-expert-summer-intern-program-2023/13015/27079294832 |  |
 | Citigroup | IB | NYC | QA | ✅ |  | https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048 |  |
@@ -42,7 +42,7 @@ DS = Data Analytics
 | PIMCO | AM |  | QA | ✔️ | | https://www.pimco.com/en-us/our-firm/careers/students/internships|  |
 | TD Securities | AM |  | QT | ✔️ | | https://jobs.td.com/en/campus-recruitment/tds/programs/#toggle-id-3 |  |
 | AlphaSimplex Group | HF | Boston  | QT | ✔️ | | https://www.alphasimplex.com/careers/internship-opportunities/ |  |
-| Acadian Asset Management | HF | Boston  |  |  | | https://www.acadian-asset.com/careers/open-positions |  |
+| Acadian Asset Management | HF | Boston  | QT |  | | https://www.acadian-asset.com/careers/open-positions |  |
 | AQR Capital Management | HF | Greenwich, CT  | QT | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
 | AQR Capital Management | HF | Greenwich, CT  | QD | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
 | AQR Capital Management | HF | Greenwich, CT  | QR | ✅ | | https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/ |  |
