@@ -52,7 +52,7 @@ DS = Data Science
 | Citadel | HF | NYC  | QR | ✅ | | [ctd_qr_apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) |  |
 | Citadel | HF | Hong Kong  | QR | ✅ | | [ctd_qr_apply](https://www.citadel.com/careers/details/quantitative-research-intern-asia/) |  |
 | Citadel | HF | NYC | QT | ✅ | | [ctd_qt_apply](https://www.citadel.com/careers/details/investment-trading-intern-us/) |  |
-| Capula Investment Management | HF | NYC | QR | ✅ | Dec 31 | [cim_qr_apply](https://fsr.cvmailuk.com/capula/main.cfm?page=jobSpecific&jobId=60516&rcd=672723&queryString=groupType%5F3%3D%26groupType%5F73%3D%26groupType%5F74%3D3599%26x%2Dtoken%3Dt9k58yhk71lxihj95w46jiw9lt7loah54agn1am5) |  |
+| Capula Investment Management | HF | NYC | QR | ✅ | *Dec 31, 2022* | [cim_qr_apply](https://fsr.cvmailuk.com/capula/main.cfm?page=jobSpecific&jobId=60516&rcd=672723&queryString=groupType%5F3%3D%26groupType%5F73%3D%26groupType%5F74%3D3599%26x%2Dtoken%3Dt9k58yhk71lxihj95w46jiw9lt7loah54agn1am5) |  |
 | Five Rings | HF | NYC | QT | ✅  | | [fr_qt_apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586) |  |
 | Five Rings | HF | NYC | QR | ✅  | | [fr_qr_apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-Summer-2023/599) |  |
 | GSA Capital | HF | NYC | QR | ✅  | | [gsa_qr](https://www.gsacapital.com/?section=careers&id=6169548002) |  |
@@ -71,7 +71,7 @@ DS = Data Science
 | Akuna Capital | PT | Chicago  | QT | ✅ | | [akuna_qt_apply](https://akunacapital.com/job-details?gh_jid=4218021) |  |
 | Akuna Capital | PT | Chicago | QS | ✅ | | [akuna_qs_apply](https://akunacapital.com/job-details?gh_jid=4299745)|  |
 | Citadel Securities | PT | NYC | QR | ✅ | | [ctds_qr_apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) |  |
-| Citadel Securities| PT | NYC | QT | ✅ | |https://www.citadelsecurities.com/careers/details/trader-intern-us/ |  |
+| Citadel Securities| PT | NYC | QT | ✅ | |[ctds_qt_apply]https://www.citadelsecurities.com/careers/details/trader-intern-us/ |  |
 | DRW | PT | NYC | QT | ✅ | | [drw_qt_apply](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2302675/) |  |
 | Hudson River Trading | PT | NYC | QS | ✅ | | [hrt_qs_apply](https://www.hudsonrivertrading.com/careers/job/?_4118765=Internship&_4168241=Strategy+Development&gh_jid=3520408&req_id=128) |  |
 | IMC Trading | PT | Chicago | QR | ✅ | | [imc_qr_apply](https://careers.imc.com/us/en/job/REQ-01962/Quant-Research-Intern-Summer-2023)|  |
