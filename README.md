@@ -56,7 +56,7 @@ DS = Data Science
 | Five Rings | HF | NYC | QT | ✅  | | [apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586) |  |
 | Five Rings | HF | NYC | QR | ✅  | | [apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-Summer-2023/599) |  |
 | GSA Capital | HF | NYC | QR | ✅  | | [apply](https://www.gsacapital.com/?section=careers&id=6169548002) |  |
-| Marshall Wace | HF | NYC | QT | ✅ | | [apply](https://boards.greenhouse.io/mwinternshipprogram/jobs/6335927002) |  |
+| Marshall Wace | HF | NYC | QT | ✅ | *Jan 9, 2023*| [apply](https://boards.greenhouse.io/mwinternshipprogram/jobs/6335927002) |  |
 | PanAgora Asset Management | HF | Boston | QR | ✅ | | [email](careers@PanAgora.com) |  |
 | SIG Susquehanna | HF | Philadelphia Area | QR | ✅ | | [apply](https://careers.sig.com/job/6604/Quantitative-Research-Intern-Graduate-Hire) |  |
 | SIG Susquehanna | HF | Chicago | QT | ✅ | | [apply](https://careers.sig.com/job/6493/Trading-Intern-Chicago) |  |
@@ -82,5 +82,5 @@ DS = Data Science
 | Optiver | PT | Shanghai | QT | ✅ | | [apply](https://optiver.com/working-at-optiver/career-opportunities/6326967002/) |  |
 | Squarepoint | PT | NYC | QR | ✅ | | [apply](https://squarepoint-capital.com/job#243853) |  |
 | TransMarketGroup	 | PT | Chicago	 | QT | ✅ | | [apply](https://apply.workable.com/transmarket-operations-llc/j/79695E0F85/) |  |
-| Wolverine Trading	 | PT | Chicago	 | QT | ✅ | | [apply](https://jobs.lever.co/wolve/6f8e1f29-a4dc-42fd-b2c6-1232de477591) |  |
-| Wolverine Trading	 | PT | Chicago	 | DS | ✅ | | [apply](https://jobs.lever.co/wolve/697222c6-94de-432b-a6e5-fcfc443de515) |  |
+| Wolverine Trading	 | PT | Chicago	 | QT | ✅ | *Oct 29, 2022* | [apply](https://jobs.lever.co/wolve/6f8e1f29-a4dc-42fd-b2c6-1232de477591) |  |
+| Wolverine Trading	 | PT | Chicago	 | DS | ✅ | *Oct 29, 2022* | [apply](https://jobs.lever.co/wolve/697222c6-94de-432b-a6e5-fcfc443de515) |  |
