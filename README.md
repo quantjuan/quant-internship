@@ -17,7 +17,7 @@ QT = Quant Trading
 QD = Quant Development  
 QS = Quant Strategy  
 QA = Quant Analytics  
-DS = Data Analytics
+DS = Data Science
 
 | Company | Company Type | Location | Position | Status | Deadline | Apply | Progress | 
 | :-----: | :----: | :----: | :----: | :----: | :----: |:----: | :----: |
@@ -49,35 +49,38 @@ DS = Data Analytics
 | Arrowstreet Capital | HF | Boston  | QR | ✅ | | [arc_qr_apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) |  |
 | Arrowstreet Capital | HF | Boston  | QD | ✅ | | [arc_qd_apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2023_R704) |  |
 | Bridgewater Associates | HF | Westport, CT  | QR | ✅ | | [bridge_qr_apply](https://boards.greenhouse.io/bridgewater89/jobs/6204813002) |  |
-| Citadel | HF | NYC  | QR | ✅ | | https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/ |  |
-| Citadel | HF | NYC | QT | ✅ | | https://www.citadel.com/careers/details/trader-intern-us/ |  |
-| Cubist (Point 72) | HF | | |  | | https://careers.point72.com/?filters=_experience=Interns%20and%20Entry%20Level_area=All%20Investment%20Services |  |
-| Capula Investment Management | HF | NYC | QR | ✅ | Dec 31 | https://fsr.cvmailuk.com/capula/main.cfm?page=jobSpecific&jobId=60516&rcd=672723&queryString=groupType%5F3%3D%26groupType%5F73%3D%26groupType%5F74%3D3599%26x%2Dtoken%3Dt9k58yhk71lxihj95w46jiw9lt7loah54agn1am5 |  |
-| D. E. Shaw | HF | | |  | | https://www.deshaw.com/careers/internships |  |
-| Five Rings | HF | NYC | QT |✅  | | https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586 |  |
-| GSA Capital | HF | NYC | QR | ✅  | | https://www.gsacapital.com/?section=careers |  |
-| Marshall Wace | HF | NYC | QR | ✔️ | | https://www.mwam.com/internships/new-york-internship/ |  |
-| Rebellion Research | HF | NYC | QR |  | | https://www.rebellionresearch.com/ |  |
-| PanAgora Asset Management | HF | NYC | QR |  | | https://www.panagora.com/careers-panagora-asset-management/ |  |
-| SIG Susquehanna | HF | Philadelphia Area | QT | ✅ | | https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest |  |
-| Tower Research Capital | HF | NYC | |  | | https://www.tower-research.com/positions |  |
-| Two Sigma | HF | NYC | |  | | https://www.twosigma.com/careers/internships/ |  |
-| Worldquant | HF | Beijing | QR | ✔️	 | | https://www.tower-research.com/positions |  |
-| Akuna Capital | PT |   | QR | ✔️ | | https://akunacapital.com/careers#careers |  |
-| Akuna Capital | PT |   | QT | ✔️ | | https://akunacapital.com/careers#careers |  |
-| Akuna Capital | PT |   | QD | ✔️ | | https://akunacapital.com/careers#careers |  |
-| Ansatz Capital | PT |   |  |  | | https://jobs.lever.co/ansatzcapital |  |
-| Citadel Securities | PT | NYC | QR | ✅ | | https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/ |  |
+| Citadel | HF | NYC  | QR | ✅ | | [ctd_qr_apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) |  |
+| Citadel | HF | Hong Kong  | QR | ✅ | | [ctd_qr_apply](https://www.citadel.com/careers/details/quantitative-research-intern-asia/) |  |
+| Citadel | HF | NYC | QT | ✅ | | [ctd_qt_apply](https://www.citadel.com/careers/details/investment-trading-intern-us/) |  |
+| Capula Investment Management | HF | NYC | QR | ✅ | Dec 31 | [cim_qr_apply](https://fsr.cvmailuk.com/capula/main.cfm?page=jobSpecific&jobId=60516&rcd=672723&queryString=groupType%5F3%3D%26groupType%5F73%3D%26groupType%5F74%3D3599%26x%2Dtoken%3Dt9k58yhk71lxihj95w46jiw9lt7loah54agn1am5) |  |
+| Five Rings | HF | NYC | QT | ✅  | | [fr_qt_apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586) |  |
+| Five Rings | HF | NYC | QR | ✅  | | [fr_qr_apply](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-Summer-2023/599) |  |
+| GSA Capital | HF | NYC | QR | ✅  | | [gsa_qr](https://www.gsacapital.com/?section=careers&id=6169548002) |  |
+| Marshall Wace | HF | NYC | QT | ✅ | | [mw_qt](https://boards.greenhouse.io/mwinternshipprogram/jobs/6335927002) |  |
+| PanAgora Asset Management | HF | Boston | QR | ✅ | | [email](careers@PanAgora.com) |  |
+| SIG Susquehanna | HF | Philadelphia Area | QR | ✅ | | [sig_qr_apply](https://careers.sig.com/job/6604/Quantitative-Research-Intern-Graduate-Hire) |  |
+| SIG Susquehanna | HF | Chicago | QT | ✅ | | [sig_qt_apply](https://careers.sig.com/job/6493/Trading-Intern-Chicago) |  |
+| SIG Susquehanna | HF | NYC | QT | ✅ | | [sig_qt_apply](https://careers.sig.com/job/6492/Trading-Intern-NYC) |  |
+| SIG Susquehanna | HF | Philadelphia Area | QS | ✅ | | [sig_qs_apply](https://careers.sig.com/job/6603/Quantitative-Strategy-Intern-Graduate-Hire) |  |
+| Tower Research Capital | HF | NYC | QT | ✅ | | [trc_qt_apply](https://www.tower-research.com/open-positions/?gh_jid=4360111) |  |
+| Tower Research Capital | HF | NYC | QD | ✅ | | [trc_qd_apply](https://www.tower-research.com/open-positions/?gh_jid=4362749) |  |
+| Worldquant | HF | Beijing | QR | ✅ | | [wq_qr_apply](https://www.worldquant.com/career-listing/?id=8a78879e8006173301801f4425400c66) |  |
+| Akuna Capital | PT | Chicago  | QR | ✅ | | [akuna_qr_apply](https://akunacapital.com/job-details?gh_jid=4217954) |  |
+| Akuna Capital | PT | Boston  | QR | ✅ | | [akuna_qr_apply](https://akunacapital.com/job-details?gh_jid=4218050) |  |
+| Akuna Capital | PT | Shanghai  | QR | ✅ | | [akuna_qr_apply](https://akunacapital.com/job-details?gh_jid=4445500) |  |
+| Akuna Capital | PT | Chicago  | QT | ✅ | | [akuna_qt_apply](https://akunacapital.com/job-details?gh_jid=4218021) |  |
+| Akuna Capital | PT | Chicago | QS | ✅ | | [akuna_qs_apply](https://akunacapital.com/job-details?gh_jid=4299745)|  |
+| Citadel Securities | PT | NYC | QR | ✅ | | [ctds_qr_apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) |  |
 | Citadel Securities| PT | NYC | QT | ✅ | |https://www.citadelsecurities.com/careers/details/trader-intern-us/ |  |
-| DRW | PT | | |  | | https://drw.com/work-at-drw/interns/ |  |
-| Hudson River Trading | PT | | QT | ✔️ | | https://www.hudsonrivertrading.com/campus-recruiting/ |  |
-| IMC Trading | PT | | QT | ✔️ | | https://careers.imc.com/us/en/c/internships-jobs |  |
-| Jane Street | PT | NYC | QT | ✔️ | | https://www.janestreet.com/join-jane-street/internships/ |  |
-| Jane Street | PT | NYC | QR | ✔️ | | https://www.janestreet.com/join-jane-street/internships/ |  |
-| Jump Trading | PT | |  |  | | https://www.jumptrading.com/careers/ |  |
-| Optiver | PT | Chicago | QR | ✔️ | | https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship |  |
-| Optiver | PT | Chicago | QT | ✔️ | | https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship |  |
-| Squarepoint | PT | NYC | QR | ✅ | | https://squarepoint-capital.com/job#243853 |  |
-| TransMarketGroup	 | PT | Chicago	 | QT | ✅ | | https://apply.workable.com/transmarket-operations-llc/j/79695E0F85/ |  |
-| Wolverine Trading	 | PT | Chicago	 | QT | ✔️ | | https://www.wolve.com/careers#open-intern-positions |  |
-| Wolverine Trading	 | PT | Chicago	 | QR | ✔️ | | https://www.wolve.com/careers#open-intern-positions |  |
+| DRW | PT | NYC | QT | ✅ | | [drw_qt_apply](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2302675/) |  |
+| Hudson River Trading | PT | NYC | QS | ✅ | | [hrt_qs_apply](https://www.hudsonrivertrading.com/careers/job/?_4118765=Internship&_4168241=Strategy+Development&gh_jid=3520408&req_id=128) |  |
+| IMC Trading | PT | Chicago | QR | ✅ | | [imc_qr_apply](https://careers.imc.com/us/en/job/REQ-01962/Quant-Research-Intern-Summer-2023)|  |
+| IMC Trading | PT | Chicago | QT | ✅ | | [imc_qt_apply](https://careers.imc.com/us/en/job/REQ-01963/Quant-Trader-Intern-Summer-2023)|  |
+| Jane Street | PT | NYC | QT | ✅ | | [js_qt_apply](https://www.janestreet.com/join-jane-street/position/6301678002/)|  |
+| Jane Street | PT | NYC | QR | ✅ | | [js_qr_apply](https://www.janestreet.com/join-jane-street/position/6249103002/) |  |
+| Optiver | PT | Shanghai | QR | ✅ | | [otv_qr_apply](https://optiver.com/working-at-optiver/career-opportunities/6326950002/) |  |
+| Optiver | PT | Shanghai | QT | ✅ | | [otv_qr_apply](https://optiver.com/working-at-optiver/career-opportunities/6326967002/) |  |
+| Squarepoint | PT | NYC | QR | ✅ | | [sp_qr_apply](https://squarepoint-capital.com/job#243853) |  |
+| TransMarketGroup	 | PT | Chicago	 | QT | ✅ | | [tmg_qt_apply](https://apply.workable.com/transmarket-operations-llc/j/79695E0F85/) |  |
+| Wolverine Trading	 | PT | Chicago	 | QT | ✅ | | [wt_qt_apply](https://jobs.lever.co/wolve/6f8e1f29-a4dc-42fd-b2c6-1232de477591) |  |
+| Wolverine Trading	 | PT | Chicago	 | DS | ✅ | | [wt_ds_apply](https://jobs.lever.co/wolve/697222c6-94de-432b-a6e5-fcfc443de515) |  |
