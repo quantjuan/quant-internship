@@ -71,7 +71,7 @@ DS = Data Science
 | Akuna Capital | PT | Chicago  | QT | ✅ | | [akuna_qt_apply](https://akunacapital.com/job-details?gh_jid=4218021) |  |
 | Akuna Capital | PT | Chicago | QS | ✅ | | [akuna_qs_apply](https://akunacapital.com/job-details?gh_jid=4299745)|  |
 | Citadel Securities | PT | NYC | QR | ✅ | | [ctds_qr_apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) |  |
-| Citadel Securities| PT | NYC | QT | ✅ | |[ctds_qt_apply]https://www.citadelsecurities.com/careers/details/trader-intern-us/ |  |
+| Citadel Securities| PT | NYC | QT | ✅ | |[ctds_qt_apply](https://www.citadelsecurities.com/careers/details/trader-intern-us/) |  |
 | DRW | PT | NYC | QT | ✅ | | [drw_qt_apply](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2302675/) |  |
 | Hudson River Trading | PT | NYC | QS | ✅ | | [hrt_qs_apply](https://www.hudsonrivertrading.com/careers/job/?_4118765=Internship&_4168241=Strategy+Development&gh_jid=3520408&req_id=128) |  |
 | IMC Trading | PT | Chicago | QR | ✅ | | [imc_qr_apply](https://careers.imc.com/us/en/job/REQ-01962/Quant-Research-Intern-Summer-2023)|  |
